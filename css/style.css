@@ -27,3 +27,14 @@ ul,
 li {
   padding-bottom: none;
 }
+
+.title {
+  color: red;
+  text-transform: capitalize;
+  padding: 30px 50px;
+}
+
+.conatiner {
+  padding: 20px 8%;
+  display: flex;
+}
