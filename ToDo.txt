@@ -1,0 +1,17 @@
+Step1: 
+ # git status is used to see the status of the files
+ whic indicates if there any files to add or tracked or untracked.
+
+ Step2:
+ To stage or add a file in git repo use the following commands
+ # git add index.html 
+
+ here index.html is the file name that i want to add or stage in my git repo.
+
+ Step3:
+ To take a track or snap of the project. To do that we always mention what changed 
+ hav been happened using following commands
+
+ # git commit -m "versiong 1.0.0"
+
+ 
